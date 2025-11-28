@@ -1,0 +1,56 @@
+{
+  "city": "Delhi",
+  "days": 3,
+  "places_to_visit": [
+    {
+      "name": "India Gate",
+      "description": "A war memorial and one of Delhi's most iconic landmarks, surrounded by lush lawns.",
+      "best_time": "Morning or late afternoon for pleasant walks and photos."
+    },
+    {
+      "name": "Humayun's Tomb",
+      "description": "A magnificent Mughal tomb, a precursor to the Taj Mahal, featuring beautiful Persian architecture and gardens.",
+      "best_time": "Morning (9 AM - 12 PM) to avoid crowds and heat."
+    },
+    {
+      "name": "Qutub Minar",
+      "description": "A UNESCO World Heritage Site, this towering minaret and its surrounding complex showcase early Indo-Islamic architecture.",
+      "best_time": "Late morning or early afternoon to explore the complex fully."
+    },
+    {
+      "name": "Red Fort",
+      "description": "A historic fort in Old Delhi, it served as the main residence of the Mughal emperors. Best viewed from outside or a quick visit to appreciate its scale.",
+      "best_time": "Morning (9-11 AM) for photos, as it can get very crowded later."
+    },
+    {
+      "name": "Jama Masjid",
+      "description": "One of India's largest mosques, an impressive example of Mughal architecture with stunning courtyards and minarets.",
+      "best_time": "Before noon or late afternoon (avoiding prayer times) for a respectful visit."
+    },
+    {
+      "name": "Chandni Chowk",
+      "description": "A bustling and historic market in Old Delhi, famous for its street food, traditional sweets, textiles, and jewelry.",
+      "best_time": "Late afternoon or evening for the full market experience and food tasting."
+    },
+    {
+      "name": "Lotus Temple",
+      "description": "A Baháʼí House of Worship known for its distinctive lotus-like architectural design and tranquil atmosphere.",
+      "best_time": "Morning (10 AM - 1 PM) to enjoy the peaceful environment."
+    },
+    {
+      "name": "Akshardham Temple",
+      "description": "A grand Hindu temple complex showcasing traditional Indian and Hindu culture, spirituality, and architecture. Allow ample time.",
+      "best_time": "Afternoon (3 PM onwards) to experience the exhibitions, boat ride, and evening light and sound show."
+    },
+    {
+      "name": "Connaught Place",
+      "description": "A large, circular shopping, dining, and business hub, known for its Georgian architecture and lively atmosphere.",
+      "best_time": "Evening for shopping, dining, and experiencing the nightlife."
+    }
+  ],
+  "weather": {
+    "temperature": "Mild to warm, ranging from 20\"C to 30\nC",
+    "condition": "Generally sunny with clear skies",
+    "advice": "Light, comfortable clothing is recommended. Carry sunscreen, sunglasses, and a hat. Stay hydrated by drinking plenty of water, especially when exploring outdoors."
+  }
+}
