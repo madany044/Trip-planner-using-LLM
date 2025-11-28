@@ -28,5 +28,5 @@ It generates a complete **Delhi trip plan** using a **JSON schema** to guarantee
 
 ---
 
-## 📁 Project Structure
+
 
