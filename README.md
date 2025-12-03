@@ -2,7 +2,14 @@
 
 This project demonstrates how to use Google Gemini’s Structured Output feature to generate a clean, validated JSON trip plan for any city — currently implemented for Delhi.
 
-# It includes:
+# 🌐 Live Demo
+
+## The project is successfully deployed and accessible online:
+ 
+👉 https://trip-planner-json-llm.onrender.com
+
+
+## It includes:
 
 - a Python script version
 
@@ -77,5 +84,6 @@ python -m uvicorn web_app:app --reload
 - Real mode requires a valid Gemini API key
 
 ---
+
 
 
