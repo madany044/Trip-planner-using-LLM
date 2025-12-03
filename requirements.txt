@@ -1,0 +1,6 @@
+google-genai
+pydantic
+streamlit
+fastapi
+uvicorn
+python-multipart
