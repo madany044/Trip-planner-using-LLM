@@ -82,8 +82,16 @@ python -m uvicorn web_app:app --reload
 - Use mock mode for safe demos
 
 - Real mode requires a valid Gemini API key
+  
 
 ---
 
+<div align="center">
+  
+## Designed & Developed By Madan Y
+ **Email**: madanmadany2004@gmail.com 
+
+
+</div>
 
 
